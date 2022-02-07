@@ -1,0 +1,7 @@
+{
+  "name": "grammar-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
